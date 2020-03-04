@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.microsoft.azure</groupId>
+  <artifactId>azure-eventhubs-spark_2.11</artifactId>
+  <versioning>
+    <release>2.3.14.1-alpha</release>
+    <versions>
+      <version>2.3.14.1-alpha</version>
+    </versions>
+    <lastUpdated>20200304214013</lastUpdated>
+  </versioning>
+</metadata>
